@@ -1,0 +1,16 @@
+{
+  "name": "codewars-comp",
+  "version": "1.0.0",
+  "description": "elbrus-codewars",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test:7kyu": "jest ./7kyu/7Kyu.test.js",
+    "test:6kyu": "jest ./6kyu/6Kyu.test.js"
+  },
+  "author": "Andrew Nagikh",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
