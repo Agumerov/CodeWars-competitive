@@ -1,6 +1,6 @@
 //Вам дан массив. Напишите функцию, которая возвращает количество ВСЕХ элементов в массиве, включая любые вложенные массивы.
 
-function deepCount(a){
+function deepCount(arr){
 }
 
 module.exports = deepCount;
